@@ -2,7 +2,7 @@
 
 Repository for Assignment Quiz 1 (Web Programming)
 
-U can view in the Link my GitHub Pages on description repo!
+U can view in my Link GitHub Pages on description repo :D
 
 </br>
 
